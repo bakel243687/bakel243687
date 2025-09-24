@@ -3,9 +3,13 @@
 ![RD7 Static Banner](https://img.shields.io/static/v1?label=RD7&message=Ethical%20Hacker&color=D3D3D3&style=for-the-badge)
 
 > Silently breaking barriers
+
 > Boldly securing the future
+
 > Hacker mindset, defender’s heart
+
 > Breaking things to make them stronger
+
 > Securing systems, one exploit at a time
 
 ---
