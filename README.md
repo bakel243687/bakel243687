@@ -2,7 +2,11 @@
 
 ![RD7 Static Banner](https://img.shields.io/static/v1?label=RD7&message=Ethical%20Hacker&color=D3D3D3&style=for-the-badge)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Silently+breaking+barriers;Boldly+securing+the+future;Hacker+mindset,+defender’s+heart.;Breaking+things+to+make+them+stronger.;Securing+systems,+one+exploit+at+a+time.)](https://git.io/typing-svg)
+> Silently breaking barriers
+> Boldly securing the future
+> Hacker mindset, defender’s heart
+> Breaking things to make them stronger
+> Securing systems, one exploit at a time
 
 ---
 
