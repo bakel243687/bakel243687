@@ -11,6 +11,14 @@
 ---
 
 ## About Me  
+Nothing really matters — it’s all mindset.
+
+I’m a cybersecurity student and aspiring penetration tester who operates in the space between breaking and securing systems. I build controlled lab environments to simulate real-world scenarios, exploring vulnerabilities in Active Directory, networks, and system configurations to understand how they fail—and how to defend them.
+
+My focus is on ethical hacking, from enumeration to post-exploitation, with a mindset rooted in continuous learning, structured experimentation, and precision. I approach security by thinking like an attacker while building like a defender.
+
+Break it. Understand it. Secure it.
+
   
 - Skilled in penetration testing, exploit development, and malware analysis  
 - Hands-on with tools like Kali Linux, Burp Suite, Wireshark, Metasploit, and Nmap  
